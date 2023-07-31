@@ -1,3 +1,3 @@
-# Ontolgy_matching
+# Ontology_matching
 
 coming soon ...
