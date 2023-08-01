@@ -2,7 +2,7 @@
 
 This repository contains our implementation of the ontology matching framework in paper: **Ontology Matching using Textual Class Descriptions**
 
-### Getting Started
+# Getting Started
 
 - To install dependencies, please run:
 
