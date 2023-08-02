@@ -12,17 +12,15 @@ This repository contains our implementation of the ontology matching framework i
 Dependencies can be installed using `requirements.txt`
 
 ### **Datasets**
-    - All the data used can be found in [data](https://github.com/peng-yiwen/Ontolgy_matching/tree/main/data) directory.
-    - The [data_script](https://github.com/peng-yiwen/Ontolgy_matching/tree/main/data_script) directory contains a Jupyter notebook detailing how we crawled the data, cleaned it, and converted it to OAEI standard format.
 
-| Dataset | #Classes | #Gold Mappings |
-| --- | --- | --- |
-| NELL / DBpedia
- | 134 / 138 | 129 |
-| Wikidata / YAGO
- | 304/304 | 304 |
-| Schema / Wikidata
- | 343/343 | 343 |
+- All the data used can be found in [data](https://github.com/peng-yiwen/Ontolgy_matching/tree/main/data) directory.
+- The [data_script](https://github.com/peng-yiwen/Ontolgy_matching/tree/main/data_script) directory contains a Jupyter notebook detailing how we crawled the data, cleaned it, and converted it to OAEI standard format.
+
+Dataset | #Classes | #Gold Mappings |
+:--- | :---: | :---: 
+NELL / DBpedia | 134/138 | 129 |
+Wikidata / YAGO | 304/304 | 304 |
+ Schema / Wikidata | 343/343 | 343 |
 
 ### How to run   
 - To evaluate the TEXTO matching system on different datasets:**run directly main.ipynb file, remember to change the data_path to corresponding dataset**
