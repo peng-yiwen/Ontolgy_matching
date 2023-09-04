@@ -1,0 +1,2754 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3859833"/>
+      <entity2 rdf:resource="https://schema.org/3DModel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q64576680"/>
+      <entity2 rdf:resource="https://schema.org/Accommodation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q23671509"/>
+      <entity2 rdf:resource="https://schema.org/AccountingService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4026292"/>
+      <entity2 rdf:resource="https://schema.org/Action"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q56061"/>
+      <entity2 rdf:resource="https://schema.org/AdministrativeArea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q221618"/>
+      <entity2 rdf:resource="https://schema.org/AdultEntertainment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q46970"/>
+      <entity2 rdf:resource="https://schema.org/Airline"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1248784"/>
+      <entity2 rdf:resource="https://schema.org/Airport"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q194195"/>
+      <entity2 rdf:resource="https://schema.org/AmusementPark"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4936952"/>
+      <entity2 rdf:resource="https://schema.org/AnatomicalStructure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1411287"/>
+      <entity2 rdf:resource="https://schema.org/AnimalShelter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1920566"/>
+      <entity2 rdf:resource="https://schema.org/Answer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q188507"/>
+      <entity2 rdf:resource="https://schema.org/Apartment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q13402009"/>
+      <entity2 rdf:resource="https://schema.org/ApartmentComplex"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2281788"/>
+      <entity2 rdf:resource="https://schema.org/Aquarium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1007870"/>
+      <entity2 rdf:resource="https://schema.org/ArtGallery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q9655"/>
+      <entity2 rdf:resource="https://schema.org/Artery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q191067"/>
+      <entity2 rdf:resource="https://schema.org/Article"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q162827"/>
+      <entity2 rdf:resource="https://schema.org/Atlas"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q40348"/>
+      <entity2 rdf:resource="https://schema.org/Attorney"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q211198"/>
+      <entity2 rdf:resource="https://schema.org/Audience"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q26987229"/>
+      <entity2 rdf:resource="https://schema.org/AudioObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q106833"/>
+      <entity2 rdf:resource="https://schema.org/Audiobook"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27003353"/>
+      <entity2 rdf:resource="https://schema.org/AutoBodyShop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q291240"/>
+      <entity2 rdf:resource="https://schema.org/AutoRental"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q81235"/>
+      <entity2 rdf:resource="https://schema.org/AutomatedTeller"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1310967"/>
+      <entity2 rdf:resource="https://schema.org/AutomotiveBusiness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q274393"/>
+      <entity2 rdf:resource="https://schema.org/Bakery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q730038"/>
+      <entity2 rdf:resource="https://schema.org/BankOrCreditUnion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5307737"/>
+      <entity2 rdf:resource="https://schema.org/BarOrPub"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q856"/>
+      <entity2 rdf:resource="https://schema.org/Barcode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q40080"/>
+      <entity2 rdf:resource="https://schema.org/Beach"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1195245"/>
+      <entity2 rdf:resource="https://schema.org/BeautySalon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q367914"/>
+      <entity2 rdf:resource="https://schema.org/BedAndBreakfast"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q30849"/>
+      <entity2 rdf:resource="https://schema.org/Blog"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q17928402"/>
+      <entity2 rdf:resource="https://schema.org/BlogPosting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q886837"/>
+      <entity2 rdf:resource="https://schema.org/BloodTest"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q15324"/>
+      <entity2 rdf:resource="https://schema.org/BodyOfWater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q265868"/>
+      <entity2 rdf:resource="https://schema.org/Bone"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q571"/>
+      <entity2 rdf:resource="https://schema.org/Book"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q277759"/>
+      <entity2 rdf:resource="https://schema.org/BookSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q200764"/>
+      <entity2 rdf:resource="https://schema.org/BookStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27106471"/>
+      <entity2 rdf:resource="https://schema.org/BowlingAlley"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q431289"/>
+      <entity2 rdf:resource="https://schema.org/Brand"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q131734"/>
+      <entity2 rdf:resource="https://schema.org/Brewery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q12280"/>
+      <entity2 rdf:resource="https://schema.org/Bridge"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q15265344"/>
+      <entity2 rdf:resource="https://schema.org/BroadcastChannel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5393308"/>
+      <entity2 rdf:resource="https://schema.org/BuddhistTemple"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5638"/>
+      <entity2 rdf:resource="https://schema.org/BusOrCoach"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q494829"/>
+      <entity2 rdf:resource="https://schema.org/BusStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q953806"/>
+      <entity2 rdf:resource="https://schema.org/BusStop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q30022"/>
+      <entity2 rdf:resource="https://schema.org/CafeOrCoffeeShop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27108230"/>
+      <entity2 rdf:resource="https://schema.org/Campground"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q99586892"/>
+      <entity2 rdf:resource="https://schema.org/CampingPitch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q12284"/>
+      <entity2 rdf:resource="https://schema.org/Canal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1144312"/>
+      <entity2 rdf:resource="https://schema.org/Car"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q133215"/>
+      <entity2 rdf:resource="https://schema.org/Casino"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q18398654"/>
+      <entity2 rdf:resource="https://schema.org/CatholicChurch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q39614"/>
+      <entity2 rdf:resource="https://schema.org/Cemetery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1980247"/>
+      <entity2 rdf:resource="https://schema.org/Chapter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27008444"/>
+      <entity2 rdf:resource="https://schema.org/ChildCare"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q16970"/>
+      <entity2 rdf:resource="https://schema.org/Church"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q515"/>
+      <entity2 rdf:resource="https://schema.org/City"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q25550691"/>
+      <entity2 rdf:resource="https://schema.org/CityHall"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q107123630"/>
+      <entity2 rdf:resource="https://schema.org/CivicStructure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2668072"/>
+      <entity2 rdf:resource="https://schema.org/Collection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q38723"/>
+      <entity2 rdf:resource="https://schema.org/CollegeOrUniversity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2814066"/>
+      <entity2 rdf:resource="https://schema.org/ComedyClub"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q14406742"/>
+      <entity2 rdf:resource="https://schema.org/ComicSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1004"/>
+      <entity2 rdf:resource="https://schema.org/ComicStory"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q58897583"/>
+      <entity2 rdf:resource="https://schema.org/Comment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q222910"/>
+      <entity2 rdf:resource="https://schema.org/CompilationAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q629206"/>
+      <entity2 rdf:resource="https://schema.org/ComputerLanguage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q30322502"/>
+      <entity2 rdf:resource="https://schema.org/ContactPoint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5107"/>
+      <entity2 rdf:resource="https://schema.org/Continent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q52943"/>
+      <entity2 rdf:resource="https://schema.org/Conversation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q167037"/>
+      <entity2 rdf:resource="https://schema.org/Corporation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+      <entity2 rdf:resource="https://schema.org/Country"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q600134"/>
+      <entity2 rdf:resource="https://schema.org/Course"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1137809"/>
+      <entity2 rdf:resource="https://schema.org/Courthouse"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q17537576"/>
+      <entity2 rdf:resource="https://schema.org/CreativeWork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q70990126"/>
+      <entity2 rdf:resource="https://schema.org/CreativeWorkSeason"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7725310"/>
+      <entity2 rdf:resource="https://schema.org/CreativeWorkSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q161380"/>
+      <entity2 rdf:resource="https://schema.org/CreditCard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q157570"/>
+      <entity2 rdf:resource="https://schema.org/Crematorium"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2619673"/>
+      <entity2 rdf:resource="https://schema.org/DJMixAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2393314"/>
+      <entity2 rdf:resource="https://schema.org/DanceGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q29937289"/>
+      <entity2 rdf:resource="https://schema.org/DataCatalog"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5227292"/>
+      <entity2 rdf:resource="https://schema.org/DataFeed"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1172284"/>
+      <entity2 rdf:resource="https://schema.org/Dataset"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q41825"/>
+      <entity2 rdf:resource="https://schema.org/DayOfWeek"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q18691599"/>
+      <entity2 rdf:resource="https://schema.org/DefenceEstablishment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4402708"/>
+      <entity2 rdf:resource="https://schema.org/Demand"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2979300"/>
+      <entity2 rdf:resource="https://schema.org/Dentist"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q177719"/>
+      <entity2 rdf:resource="https://schema.org/DiagnosticProcedure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q26869695"/>
+      <entity2 rdf:resource="https://schema.org/Diet"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q645858"/>
+      <entity2 rdf:resource="https://schema.org/DietarySupplement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q694975"/>
+      <entity2 rdf:resource="https://schema.org/DigitalDocument"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q57988118"/>
+      <entity2 rdf:resource="https://schema.org/DiscussionForumPosting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q126017"/>
+      <entity2 rdf:resource="https://schema.org/Distance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1251750"/>
+      <entity2 rdf:resource="https://schema.org/Distillery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q93184"/>
+      <entity2 rdf:resource="https://schema.org/Drawing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q12140"/>
+      <entity2 rdf:resource="https://schema.org/Drug"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2976049"/>
+      <entity2 rdf:resource="https://schema.org/DrugClass"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q26715005"/>
+      <entity2 rdf:resource="https://schema.org/DrugLegalStatus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2199864"/>
+      <entity2 rdf:resource="https://schema.org/Duration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5341295"/>
+      <entity2 rdf:resource="https://schema.org/EducationalOrganization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q165029"/>
+      <entity2 rdf:resource="https://schema.org/Electrician"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q20950067"/>
+      <entity2 rdf:resource="https://schema.org/ElementarySchool"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3917681"/>
+      <entity2 rdf:resource="https://schema.org/Embassy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q814610"/>
+      <entity2 rdf:resource="https://schema.org/EmergencyService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q261362"/>
+      <entity2 rdf:resource="https://schema.org/EmploymentAgency"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11379"/>
+      <entity2 rdf:resource="https://schema.org/Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1983062"/>
+      <entity2 rdf:resource="https://schema.org/Episode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1656682"/>
+      <entity2 rdf:resource="https://schema.org/Event"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q15275719"/>
+      <entity2 rdf:resource="https://schema.org/EventSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q132241"/>
+      <entity2 rdf:resource="https://schema.org/Festival"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q15809678"/>
+      <entity2 rdf:resource="https://schema.org/FinancialProduct"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q837171"/>
+      <entity2 rdf:resource="https://schema.org/FinancialService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1195942"/>
+      <entity2 rdf:resource="https://schema.org/FireStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q16735601"/>
+      <entity2 rdf:resource="https://schema.org/Florist"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27038993"/>
+      <entity2 rdf:resource="https://schema.org/FoodEstablishment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q41958"/>
+      <entity2 rdf:resource="https://schema.org/FoodService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11410"/>
+      <entity2 rdf:resource="https://schema.org/Game"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1315933"/>
+      <entity2 rdf:resource="https://schema.org/GameServer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q205495"/>
+      <entity2 rdf:resource="https://schema.org/GasStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q75848"/>
+      <entity2 rdf:resource="https://schema.org/GatedResidenceCommunity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q289612"/>
+      <entity2 rdf:resource="https://schema.org/GeneralContractor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1048525"/>
+      <entity2 rdf:resource="https://schema.org/GolfCourse"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q16831714"/>
+      <entity2 rdf:resource="https://schema.org/GovernmentBuilding"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2659904"/>
+      <entity2 rdf:resource="https://schema.org/GovernmentOrganization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1295201"/>
+      <entity2 rdf:resource="https://schema.org/GroceryStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11265853"/>
+      <entity2 rdf:resource="https://schema.org/HairSalon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1065656"/>
+      <entity2 rdf:resource="https://schema.org/HealthClub"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q97961514"/>
+      <entity2 rdf:resource="https://schema.org/HighSchool"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q842402"/>
+      <entity2 rdf:resource="https://schema.org/HinduTemple"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27057193"/>
+      <entity2 rdf:resource="https://schema.org/HomeAndConstructionBusiness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q16917"/>
+      <entity2 rdf:resource="https://schema.org/Hospital"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q654772"/>
+      <entity2 rdf:resource="https://schema.org/Hostel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27686"/>
+      <entity2 rdf:resource="https://schema.org/Hotel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q23541360"/>
+      <entity2 rdf:resource="https://schema.org/HotelRoom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3947"/>
+      <entity2 rdf:resource="https://schema.org/House"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q288728"/>
+      <entity2 rdf:resource="https://schema.org/HousePainter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1311064"/>
+      <entity2 rdf:resource="https://schema.org/IceCreamShop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q18123741"/>
+      <entity2 rdf:resource="https://schema.org/InfectiousDisease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27038992"/>
+      <entity2 rdf:resource="https://schema.org/InsuranceAgency"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7184903"/>
+      <entity2 rdf:resource="https://schema.org/Intangible"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q190581"/>
+      <entity2 rdf:resource="https://schema.org/Invoice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q9644"/>
+      <entity2 rdf:resource="https://schema.org/Joint"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q23397"/>
+      <entity2 rdf:resource="https://schema.org/LakeBodyOfWater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q271669"/>
+      <entity2 rdf:resource="https://schema.org/Landform"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q51369558"/>
+      <entity2 rdf:resource="https://schema.org/LandmarksOrHistoricalBuildings"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q34770"/>
+      <entity2 rdf:resource="https://schema.org/Language"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1494322"/>
+      <entity2 rdf:resource="https://schema.org/LegalService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q820655"/>
+      <entity2 rdf:resource="https://schema.org/Legislation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7075"/>
+      <entity2 rdf:resource="https://schema.org/Library"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q39888"/>
+      <entity2 rdf:resource="https://schema.org/Ligament"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2632011"/>
+      <entity2 rdf:resource="https://schema.org/LiquorStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q209939"/>
+      <entity2 rdf:resource="https://schema.org/LiveAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q62849941"/>
+      <entity2 rdf:resource="https://schema.org/LocalBusiness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3479990"/>
+      <entity2 rdf:resource="https://schema.org/Locksmith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5056668"/>
+      <entity2 rdf:resource="https://schema.org/LodgingBusiness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11238641"/>
+      <entity2 rdf:resource="https://schema.org/LymphaticVessel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q87167"/>
+      <entity2 rdf:resource="https://schema.org/Manuscript"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4006"/>
+      <entity2 rdf:resource="https://schema.org/Map"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11423"/>
+      <entity2 rdf:resource="https://schema.org/Mass"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1774898"/>
+      <entity2 rdf:resource="https://schema.org/MedicalClinic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27165776"/>
+      <entity2 rdf:resource="https://schema.org/MedicalCode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q6554101"/>
+      <entity2 rdf:resource="https://schema.org/MedicalDevice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q103995117"/>
+      <entity2 rdf:resource="https://schema.org/MedicalEntity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q878041"/>
+      <entity2 rdf:resource="https://schema.org/MedicalGuideline"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4287745"/>
+      <entity2 rdf:resource="https://schema.org/MedicalOrganization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q796194"/>
+      <entity2 rdf:resource="https://schema.org/MedicalProcedure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1441305"/>
+      <entity2 rdf:resource="https://schema.org/MedicalSign"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q930752"/>
+      <entity2 rdf:resource="https://schema.org/MedicalSpecialty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27166169"/>
+      <entity2 rdf:resource="https://schema.org/MedicalStudy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q169872"/>
+      <entity2 rdf:resource="https://schema.org/MedicalSymptom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2671652"/>
+      <entity2 rdf:resource="https://schema.org/MedicalTest"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27166192"/>
+      <entity2 rdf:resource="https://schema.org/MedicalTrial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3469909"/>
+      <entity2 rdf:resource="https://schema.org/MeetingRoom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q658274"/>
+      <entity2 rdf:resource="https://schema.org/Menu"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q628523"/>
+      <entity2 rdf:resource="https://schema.org/Message"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q149566"/>
+      <entity2 rdf:resource="https://schema.org/MiddleSchool"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1892995"/>
+      <entity2 rdf:resource="https://schema.org/MixtapeAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q620615"/>
+      <entity2 rdf:resource="https://schema.org/MobileApplication"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q32815"/>
+      <entity2 rdf:resource="https://schema.org/Mosque"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q216212"/>
+      <entity2 rdf:resource="https://schema.org/Motel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q34493"/>
+      <entity2 rdf:resource="https://schema.org/Motorcycle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q8502"/>
+      <entity2 rdf:resource="https://schema.org/Mountain"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11424"/>
+      <entity2 rdf:resource="https://schema.org/Movie"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q41253"/>
+      <entity2 rdf:resource="https://schema.org/MovieTheater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1757263"/>
+      <entity2 rdf:resource="https://schema.org/MovingCompany"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7365"/>
+      <entity2 rdf:resource="https://schema.org/Muscle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q33506"/>
+      <entity2 rdf:resource="https://schema.org/Museum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q108346082"/>
+      <entity2 rdf:resource="https://schema.org/MusicAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q81947509"/>
+      <entity2 rdf:resource="https://schema.org/MusicAlbumProductionType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q105543609"/>
+      <entity2 rdf:resource="https://schema.org/MusicComposition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q182832"/>
+      <entity2 rdf:resource="https://schema.org/MusicEvent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q215380"/>
+      <entity2 rdf:resource="https://schema.org/MusicGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q107101993"/>
+      <entity2 rdf:resource="https://schema.org/MusicPlaylist"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7302866"/>
+      <entity2 rdf:resource="https://schema.org/MusicRecording"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2031291"/>
+      <entity2 rdf:resource="https://schema.org/MusicRelease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q8719053"/>
+      <entity2 rdf:resource="https://schema.org/MusicVenue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q79913"/>
+      <entity2 rdf:resource="https://schema.org/NGO"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q9620"/>
+      <entity2 rdf:resource="https://schema.org/Nerve"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5707594"/>
+      <entity2 rdf:resource="https://schema.org/NewsArticle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11032"/>
+      <entity2 rdf:resource="https://schema.org/Newspaper"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q622425"/>
+      <entity2 rdf:resource="https://schema.org/NightClub"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q189010"/>
+      <entity2 rdf:resource="https://schema.org/Notary"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2006410"/>
+      <entity2 rdf:resource="https://schema.org/NutritionInformation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q12737077"/>
+      <entity2 rdf:resource="https://schema.org/Occupation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q380141"/>
+      <entity2 rdf:resource="https://schema.org/OccupationalTherapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q9430"/>
+      <entity2 rdf:resource="https://schema.org/OceanBodyOfWater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4382945"/>
+      <entity2 rdf:resource="https://schema.org/OnlineStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1996635"/>
+      <entity2 rdf:resource="https://schema.org/Optician"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q43229"/>
+      <entity2 rdf:resource="https://schema.org/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q76470"/>
+      <entity2 rdf:resource="https://schema.org/OutletStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3305213"/>
+      <entity2 rdf:resource="https://schema.org/Painting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27165812"/>
+      <entity2 rdf:resource="https://schema.org/PalliativeProcedure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1529128"/>
+      <entity2 rdf:resource="https://schema.org/ParcelService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q22698"/>
+      <entity2 rdf:resource="https://schema.org/Park"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q6501349"/>
+      <entity2 rdf:resource="https://schema.org/ParkingFacility"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q181600"/>
+      <entity2 rdf:resource="https://schema.org/Patient"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q176637"/>
+      <entity2 rdf:resource="https://schema.org/PawnShop"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1436963"/>
+      <entity2 rdf:resource="https://schema.org/PaymentCard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1912682"/>
+      <entity2 rdf:resource="https://schema.org/PaymentMethod"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q24354"/>
+      <entity2 rdf:resource="https://schema.org/PerformingArtsTheater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q105815710"/>
+      <entity2 rdf:resource="https://schema.org/PerformingGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1002697"/>
+      <entity2 rdf:resource="https://schema.org/Periodical"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q79719"/>
+      <entity2 rdf:resource="https://schema.org/Permit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5"/>
+      <entity2 rdf:resource="https://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q220142"/>
+      <entity2 rdf:resource="https://schema.org/PetStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q13107184"/>
+      <entity2 rdf:resource="https://schema.org/Pharmacy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q125191"/>
+      <entity2 rdf:resource="https://schema.org/Photograph"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q219067"/>
+      <entity2 rdf:resource="https://schema.org/PhysicalActivity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q835153"/>
+      <entity2 rdf:resource="https://schema.org/PhysicalExam"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q39631"/>
+      <entity2 rdf:resource="https://schema.org/Physician"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q17334923"/>
+      <entity2 rdf:resource="https://schema.org/Place"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1370598"/>
+      <entity2 rdf:resource="https://schema.org/PlaceOfWorship"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q25379"/>
+      <entity2 rdf:resource="https://schema.org/Play"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11875349"/>
+      <entity2 rdf:resource="https://schema.org/Playground"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q252924"/>
+      <entity2 rdf:resource="https://schema.org/Plumber"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q861951"/>
+      <entity2 rdf:resource="https://schema.org/PoliceStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3253281"/>
+      <entity2 rdf:resource="https://schema.org/Pond"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q35054"/>
+      <entity2 rdf:resource="https://schema.org/PostOffice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q319608"/>
+      <entity2 rdf:resource="https://schema.org/PostalAddress"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q429785"/>
+      <entity2 rdf:resource="https://schema.org/Poster"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1076052"/>
+      <entity2 rdf:resource="https://schema.org/Preschool"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2424752"/>
+      <entity2 rdf:resource="https://schema.org/Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q10929058"/>
+      <entity2 rdf:resource="https://schema.org/ProductModel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2029911"/>
+      <entity2 rdf:resource="https://schema.org/ProfessionalService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q210999"/>
+      <entity2 rdf:resource="https://schema.org/Psychiatric"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27166103"/>
+      <entity2 rdf:resource="https://schema.org/PsychologicalTreatment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27106886"/>
+      <entity2 rdf:resource="https://schema.org/PublicSwimmingPool"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q813966"/>
+      <entity2 rdf:resource="https://schema.org/PublicToilet"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q28869365"/>
+      <entity2 rdf:resource="https://schema.org/PublicationIssue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q189756"/>
+      <entity2 rdf:resource="https://schema.org/Question"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q180507"/>
+      <entity2 rdf:resource="https://schema.org/RadiationTherapy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q25582589"/>
+      <entity2 rdf:resource="https://schema.org/RadioChannel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q14623351"/>
+      <entity2 rdf:resource="https://schema.org/RadioSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q14350"/>
+      <entity2 rdf:resource="https://schema.org/RadioStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q519076"/>
+      <entity2 rdf:resource="https://schema.org/RealEstateAgent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q219239"/>
+      <entity2 rdf:resource="https://schema.org/Recipe"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27106436"/>
+      <entity2 rdf:resource="https://schema.org/RecyclingCenter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q963099"/>
+      <entity2 rdf:resource="https://schema.org/RemixAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q10870555"/>
+      <entity2 rdf:resource="https://schema.org/Report"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q131681"/>
+      <entity2 rdf:resource="https://schema.org/Reservoir"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q699405"/>
+      <entity2 rdf:resource="https://schema.org/Residence"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q875157"/>
+      <entity2 rdf:resource="https://schema.org/Resort"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11707"/>
+      <entity2 rdf:resource="https://schema.org/Restaurant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q265158"/>
+      <entity2 rdf:resource="https://schema.org/Review"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4022"/>
+      <entity2 rdf:resource="https://schema.org/RiverBodyOfWater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4897819"/>
+      <entity2 rdf:resource="https://schema.org/Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q180516"/>
+      <entity2 rdf:resource="https://schema.org/Room"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q13442814"/>
+      <entity2 rdf:resource="https://schema.org/ScholarlyArticle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3914"/>
+      <entity2 rdf:resource="https://schema.org/School"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q860861"/>
+      <entity2 rdf:resource="https://schema.org/Sculpture"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q165"/>
+      <entity2 rdf:resource="https://schema.org/SeaBodyOfWater"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2207370"/>
+      <entity2 rdf:resource="https://schema.org/Seat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q401404"/>
+      <entity2 rdf:resource="https://schema.org/SelfStorage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q20937557"/>
+      <entity2 rdf:resource="https://schema.org/Series"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7406919"/>
+      <entity2 rdf:resource="https://schema.org/Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4327689"/>
+      <entity2 rdf:resource="https://schema.org/SheetMusic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7500021"/>
+      <entity2 rdf:resource="https://schema.org/ShoeStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q11315"/>
+      <entity2 rdf:resource="https://schema.org/ShoppingCenter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q134556"/>
+      <entity2 rdf:resource="https://schema.org/SingleRelease"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q130003"/>
+      <entity2 rdf:resource="https://schema.org/SkiResort"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7216866"/>
+      <entity2 rdf:resource="https://schema.org/SocialMediaPosting"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q166142"/>
+      <entity2 rdf:resource="https://schema.org/SoftwareApplication"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q128751"/>
+      <entity2 rdf:resource="https://schema.org/SoftwareSourceCode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7578913"/>
+      <entity2 rdf:resource="https://schema.org/SpokenWordAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1076486"/>
+      <entity2 rdf:resource="https://schema.org/SportsActivityLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4438121"/>
+      <entity2 rdf:resource="https://schema.org/SportsOrganization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q12973014"/>
+      <entity2 rdf:resource="https://schema.org/SportsTeam"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q483110"/>
+      <entity2 rdf:resource="https://schema.org/StadiumOrArena"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q107390"/>
+      <entity2 rdf:resource="https://schema.org/State"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q213441"/>
+      <entity2 rdf:resource="https://schema.org/Store"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q208569"/>
+      <entity2 rdf:resource="https://schema.org/StudioAlbum"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q10683158"/>
+      <entity2 rdf:resource="https://schema.org/Substance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q928830"/>
+      <entity2 rdf:resource="https://schema.org/SubwayStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1367530"/>
+      <entity2 rdf:resource="https://schema.org/Suite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3545415"/>
+      <entity2 rdf:resource="https://schema.org/SuperficialAnatomy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q15636229"/>
+      <entity2 rdf:resource="https://schema.org/SurgicalProcedure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q34627"/>
+      <entity2 rdf:resource="https://schema.org/Synagogue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q21191270"/>
+      <entity2 rdf:resource="https://schema.org/TVEpisode"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q3464665"/>
+      <entity2 rdf:resource="https://schema.org/TVSeason"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q5398426"/>
+      <entity2 rdf:resource="https://schema.org/TVSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q27038997"/>
+      <entity2 rdf:resource="https://schema.org/TattooParlor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q41222493"/>
+      <entity2 rdf:resource="https://schema.org/TaxiService"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1395196"/>
+      <entity2 rdf:resource="https://schema.org/TaxiStand"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q16521"/>
+      <entity2 rdf:resource="https://schema.org/Taxon"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2001305"/>
+      <entity2 rdf:resource="https://schema.org/TelevisionChannel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1616075"/>
+      <entity2 rdf:resource="https://schema.org/TelevisionStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q13380226"/>
+      <entity2 rdf:resource="https://schema.org/TennisComplex"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q86920"/>
+      <entity2 rdf:resource="https://schema.org/TextDigitalDocument"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2416176"/>
+      <entity2 rdf:resource="https://schema.org/TheaterEvent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q2416217"/>
+      <entity2 rdf:resource="https://schema.org/TheaterGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1266946"/>
+      <entity2 rdf:resource="https://schema.org/Thesis"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q35120"/>
+      <entity2 rdf:resource="https://schema.org/Thing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q570116"/>
+      <entity2 rdf:resource="https://schema.org/TouristAttraction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1200957"/>
+      <entity2 rdf:resource="https://schema.org/TouristDestination"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1587716"/>
+      <entity2 rdf:resource="https://schema.org/TouristInformationCenter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1318959"/>
+      <entity2 rdf:resource="https://schema.org/ToyStore"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q55488"/>
+      <entity2 rdf:resource="https://schema.org/TrainStation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q217107"/>
+      <entity2 rdf:resource="https://schema.org/TravelAgency"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q42889"/>
+      <entity2 rdf:resource="https://schema.org/Vehicle"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q9609"/>
+      <entity2 rdf:resource="https://schema.org/Vein"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q382386"/>
+      <entity2 rdf:resource="https://schema.org/Vessel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q170201"/>
+      <entity2 rdf:resource="https://schema.org/VeterinaryCare"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7889"/>
+      <entity2 rdf:resource="https://schema.org/VideoGame"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q7058673"/>
+      <entity2 rdf:resource="https://schema.org/VideoGameSeries"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q98069877"/>
+      <entity2 rdf:resource="https://schema.org/VideoObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q4502142"/>
+      <entity2 rdf:resource="https://schema.org/VisualArtwork"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q1067560"/>
+      <entity2 rdf:resource="https://schema.org/VitalSign"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q8072"/>
+      <entity2 rdf:resource="https://schema.org/Volcano"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q34038"/>
+      <entity2 rdf:resource="https://schema.org/Waterfall"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q189210"/>
+      <entity2 rdf:resource="https://schema.org/WebApplication"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q36774"/>
+      <entity2 rdf:resource="https://schema.org/WebPage"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q35127"/>
+      <entity2 rdf:resource="https://schema.org/WebSite"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q50000"/>
+      <entity2 rdf:resource="https://schema.org/WinAction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q156362"/>
+      <entity2 rdf:resource="https://schema.org/Winery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q178790"/>
+      <entity2 rdf:resource="https://schema.org/WorkersUnion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.wikidata.org/entity/Q43501"/>
+      <entity2 rdf:resource="https://schema.org/Zoo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  </Alignment>
+</rdf:RDF>

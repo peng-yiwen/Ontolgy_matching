@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28869365">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">issue</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">issue of a newspaper, a scientific journal or magazine for reference purpose</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27166192">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical trial</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type of medical study that compares medical procedures or therapies</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q265158">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">review</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">evaluation of a publication, service, company, piece of hardware, event, exhibition, or performance</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4502142">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">visual artwork</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">work of art that is primarily visual</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q125191">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">photograph</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image created by light falling on a light-sensitive surface</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q17928402">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blog post</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">individual entry on a blog</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q181600">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">patient</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">person who takes a medical treatment or is subject of a case study</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208569">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studio album</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album type of audio recordings made up of tracks recorded in a recording studio</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q107390">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">federated state</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">territorial and constitutional community forming part of a federal union</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2006410">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nutrition information</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">information or data that provides nutritional facts of food</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319608">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">address</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of information that describes the location of a building, apartment, or other structure</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q217107">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">travel agency</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">private retailer or public service that provides tourism-related services to the public</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18398654">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Catholic church building</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">church building in the Catholic Church</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5107">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">continent</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large landmass identified by convention</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1004">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comics</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creative work in which images and text convey information such as narratives</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q93184">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">drawing</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">visual artwork in two-dimensional medium</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4402708">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">demand</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">in economics, the quantity of a good that consumers are willing and able to purchase at various prices during a given time</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1172284">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data set</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of data</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q645858">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dietary supplement</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product that provides additional source of nutrients</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q99586892">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">campsite</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">campsite in within a staffed campground</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1892995">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mixtape</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">compilation of songs recorded onto any audio format</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q41253">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">movie theater</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">venue, usually a building, for viewing films</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q194195">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amusement park</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">park with rides and attractions</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1007870">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">art gallery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place where art is exhibited and sometimes also sold</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12737077">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">occupation</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">label applied to a person based on an activity they participate in</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1616075">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">television station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization that transmits content on television</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q191067">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">article</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">text that forms an independent part of a publication</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5707594">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">news article</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">article that is published in news media</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q30849">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blog</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">discussion or informational website consisting of discrete, often informal diary-style text entries (posts)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q157570">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">crematorium</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility in which cremation takes place</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q23397">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lake</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">body of relatively still water, localized in a basin</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10870555">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">report</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">informational, formal, and detailed text</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27057193">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">roofing contractor</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a person or organization typically hired to provided roofing services</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7406919">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">service</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">economic product that directly satisfies wants without producing a lasting asset</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5307737">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">drinking establishment</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business whose primary function is the serving of alcoholic beverages for consumption on the premises</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4022">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">river</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">larger natural watercourse</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1436963">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">payment card</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">card that can be used to make a payment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7889">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">video game</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">electronic game with user interface and visual feedback</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4438121">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sports organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization involved primarily in sports</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q55488">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">railway station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">railway facility where trains regularly stop to load or unload passengers and/or freight</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11265853">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hair salon</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that cuts and styles hair for women</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4287745">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization which supports the field of medicine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q105815710">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">performing arts group</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group or organization primarily engaged in the production and/or presentation of performances or in any other activity within the value chain of the performing arts (can be an informal group or a group operating as a corporate body)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10929058">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product model</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">class of manufactured objects of similar design sold under a specific brand</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1002697">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">periodical</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">serial publication that appears in a new edition on a regular schedule</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q86920">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">text file</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kind of computer file containing plain text</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q131681">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reservoir</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">artificial lake impounded using a dam or lock to store water</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q161380">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">credit card</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">payment card issued to users as a system of payment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q39631">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physician</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">professional who practices medicine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q79913">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">non-governmental organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization independent of any government, usually created to aid those in need</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3469909">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conference room</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">internal space used for a group meeting or reception</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q57988118">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">discussion forum post</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">post published in an Internet forum</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15265344">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">broadcaster</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization responsible for production and transmission of radio and television programs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q429785">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poster</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type of graphical image created to promote something or as a decoration</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5393308">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Buddhist temple</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place of worship for Buddhists</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q40080">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">beach</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">area of sand or small stones near the sea or another area of water such as a lake</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18123741">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">infectious disease</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease caused by infection of pathogenic biological agents in a host organism</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11379">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">energy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q165">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sea</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large body of saline water</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2393314">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dance troupe</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of dancers</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q81947509">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album type</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata metaclass</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34627">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">synagogue</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jewish (or rarely Samaritan) house of prayer</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13402009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apartment building</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiunit residential dwelling</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1912682">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">payment method</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mode by which a payment is effected, e.g. cash, check, credit</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7500021">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shoe store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that specializes in selling shoes</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q860861">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sculpture</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">three-dimensional work of art</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q694975">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">electronic document</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type of document stored as a computer file</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3479990">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locksmith</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">craftsman who works with locks and keys</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q842402">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hindu temple</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">house of worship in Hinduism</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2199864">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">duration</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical quantity for describing the temporal distance between events</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25582589">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">radio channel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical or virtual channel over which a radio station network is distributed</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q98069877">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">video</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">specific video with defining traits like framerate</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5341295">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">educational organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">body with an aim of education</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q81235">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">automated teller machine</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">electronic banking kiosk</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7302866">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">audio track</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">track on an audio release (Q115669410)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q837171">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">financial services</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">economic service provided by the finance industry</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q494829">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bus station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">structure, larger than a bus stop, where city or intercity buses stop to pick up and drop off passengers</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13107184">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pharmacy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">health facility where medicines are sold and medical advice is given</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1137809">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">courthouse</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">building which is home to a court</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q166142">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">application</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">software program or group of programs designed for end-users</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15324">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">body of water</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any significant accumulation of water, generally on a planet's surface</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25550691">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">town hall</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chief administrative seat of a municipality</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q35127">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">set of related web pages served from a single web domain</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1200957">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tourist destination</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place attracting many tourists</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q58897583">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comment</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">work consisting of a critical or explanatory note written to discuss, support, or dispute an article or other presentation previously published</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1311064">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ice cream parlor</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shop selling ice creams</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q8719053">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">music venue</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any location used for a concert or musical performance</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q820655">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">statute</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">formal written document that creates law, including acts, executive orders, and by-laws</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q875157">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">resort</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">self-contained commercial establishment which attempts to provide for most of a vacationer's wants</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2659904">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">government organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization administrated by a government authority or agency</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q35120">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">entity</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anything that can be considered, discussed, or observed</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11410">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">game</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">structured form of play</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12284">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">canal</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">man-made channel for water</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1048525">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">golf course</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">series of holes designed for the game of golf</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27038992">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">insurance agency</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that offers insurance policies</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q8072">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">volcano</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">natural, surface vent or fissure usually in a mountainous form</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q50000">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">victory</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">success in a competition</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12140">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medication</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">substance used to diagnose, cure, treat, or prevent disease</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1411287">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">animal shelter</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility that houses and disposes of homeless, lost, or abandoned animals</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205495">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">filling station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">establishments that primarily sell gasoline, lubricating oils, and other merchandise, such as tires and batteries, for motor vehicles and that often also perform minor repair work</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q288728">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">painter and varnisher</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tradesman responsible for the painting and decorating of buildings</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13442814">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scholarly article</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">article in an academic publication, usually peer reviewed</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3464665">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">television series season</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">set of episodes produced for a television series</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11875349">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">playground</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place with a specific design for children and other age groups to be able to play there</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3545415">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Superficial anatomy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">study of the external features of the body of an animal</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q40348">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lawyer</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal professional who helps clients and represents them in a court of law</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190581">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">invoice</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">commercial document issued by a seller to a buyer, relating to a sale transaction and indicating the products, quantities, and agreed prices for products or services the seller has provided the buyer</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277759">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">book series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sequence of books having certain characteristics in common that are formally identified together as a group</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1251750">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">distillery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility or company that manufactures alcoholic beverages through distillation</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5398426">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">television series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">connected set of television program episodes under the same title</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q431289">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brand</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">identification for a good or service</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q165029">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">electrician</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tradesperson specializing in electrical wiring</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180507">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">radiation therapy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">therapy using ionizing radiation</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1065656">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">health club</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place which houses exercise equipment for the purpose of physical exercise</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3859833">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D model</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mathematical representation of a tridimensional object</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1757263">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">moving company</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A moving company is a business that provides professional moving services to help people and businesses relocate from one place to another.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q97961514">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High schools and secondary schools in the Czech Republic</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211198">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">audience</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of people who participate in a show or encounter a work of art</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3914">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">school</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">institution for the education of students by teachers</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q177719">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical diagnosis</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process to determine or identify a disease or disorder, which would account for a person's symptoms and signs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q222910">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">compilation album</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album type consisting of works chosen for a particular purpose or theme</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q170201">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">veterinary medicine</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical speciality dealing with the diseases of animals, animal welfare, etc.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q46970">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">airline</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">company that provides air transport services for traveling passengers and freight</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q17334923">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical location</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">position of something in space</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180516">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">room</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">distinguishable space within a building or other structure</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21191270">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">television series episode</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">single installment of a television series</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q23671509">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">accounting services</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">service of providing accounting activity to others</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">map</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">visual representation of a concept space; symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q43229">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">social entity established to meet needs or pursue goals</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q380141">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">occupational therapy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">therapy to increase skills related to work or independent living</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1774898">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clinic</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">health care facility, primarily focused on the care of outpatients</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q107101993">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">music playlist</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a list of musical songs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1656682">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">event</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporary and scheduled happening, like a conference, festival, competition or similar</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1367530">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">suite</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hotel room that offers a larger living space</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1996635">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optician</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dispenser of eyeglasses and contact lenses</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q629206">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computer language</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a formal language used in communication with a computer</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1395196">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">taxicab stand</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">queue area and pick-up point for taxis</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q221618">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex shop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shop that sells products related to sexual or erotic entertainment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q41825">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">day of the week</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">day within a week</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7184903">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abstract object</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">object with no physical referents</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5638">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bus</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large road vehicle for transporting people</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q52943">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">conversation</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interactive communication between two or more people</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4382945">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">online shop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internet-based retailer</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11238641">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lymphatic vessel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tubular vessels that are involved in the transport of lymph and lymphocytes</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q730038">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">credit institution</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enterprise whose primary activity is banking and credit provision</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2619673">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DJ mix</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mix of recordings created by a DJ</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1195942">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fire station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">structure or other area set aside for storage of firefighting apparatus</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q17537576">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creative work</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">artistic creation</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6554101">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical device</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any device intended to be used for medical purposes</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3253281">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">artificial pond</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">body of man-made standing water, that is usually smaller than a lake</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q131734">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brewery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that makes and sells beer</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27165776">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical code</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">code within a medical classification system</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q103995117">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical entity type</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">top-level metaclass for entities related to medicine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q953806">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bus stop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">designated area for buses to pick up/drop passengers</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1920566">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">answer</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">response to a question</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q886837">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blood test</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">laboratory analysis performed on a blood sample</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4026292">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">action</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">something an agent can do or perform</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1144312">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">passenger car</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">motorized vehicle for carrying people</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210999">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">psychiatric hospital</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital treating serious mental disorders</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5056668">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lodging</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility providing temporary accommodations</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9609">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vein</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3947">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">house</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">building usually intended for living in</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1067560">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vital signs</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of the 4-6 important medical signs that indicate the status of the body’s vital functions</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q835153">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical examination</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process by which a medical professional investigates the body of a patient for signs of disease</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q382386">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vessel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any vascular pathway for blood or lymph</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11424">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">film</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sequence of images that give the impression of movement, stored on film stock</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q367914">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bed and breakfast</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">small lodging establishment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q878041">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical guideline</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">document with the aim of guiding decisions and criteria in healthcare</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q274393">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bakery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">establishment that produces and sells flour-based food baked in an oven</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1494322">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal services</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">service provided within the legal area</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q291240">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">car rental company</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">company that rents automobiles for short periods of time</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q39888">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ligament</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type of tissue that connects bones to other bones</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1370598">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">structure of worship</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">specially designed structure for use in worshipping</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20937557">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ordered set of similar objects</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27686">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hotel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business enterprise that provides lodging in a single building paid on a short-term basis</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q156362">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">winery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility that makes wine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6256">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">country</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">distinct territorial body or political entity</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189756">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">question</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">linguistic expression used to make a request for information, or the request made using such an expression</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7365">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">muscle organ</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">contractile soft tissue of mammals</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1529128">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">postal service</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">company or government agency in charge of transporting and delivering mail</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">notary</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">person licensed by the state to perform acts in legal affairs, in particular witnessing signatures on documents</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1295201">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grocery store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">retail store that primarily sells food and other household supplies</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q856">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">barcode</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical machine-readable representation of data</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2416217">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theatre troupe</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organized group that plays theatre</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q32815">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mosque</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place of worship for followers of Islam</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q35054">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">post office</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">customer service facility of a postal system</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9644">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">joint</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">location at which two or more bones make contact</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12973014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sports team</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">individual team that plays sports</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1315933">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">game server</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">server of game</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6501349">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">parking lot</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cleared area that is intended for parking vehicles</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9430">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ocean</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">very large body of saline water</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11423">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mass</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">property of matter to resist changes of the state of motion and to attract other bodies</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q216212">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">motel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">motor hotel in which all rooms face directly onto a car park, or low-cost hotel</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11707">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">restaurant</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">single establishment which prepares and serves food, located in building</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1980247">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chapter</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">section of a work, most commonly a book</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27166103">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">psychological treatment</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q126017">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">distance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">length of straight line that connects two points in a measurable space or in an observable physical space</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q106833">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">audiobook</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">recording of a text being read</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12280">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bridge</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">structure that spans and provides a passage over a road, railway, river, or some other obstacle</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16831714">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">government building</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">building built for and by the government, such as a town hall</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189210">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">web application</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">application that uses a web browser as a client</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q33506">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">museum</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">institution that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q600134">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">course</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">program of study, or unit of teaching that typically lasts one academic term</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213441">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place where items or services are sold</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q178790">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labor union</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization of workers with common goals</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25379">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">play</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theatrical dramatic work intended to be performed by actors (in theatre, radio or recorded for TV)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q41958">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">foodservice</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tertiary sector of the economy</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q401404">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">self storage</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">an industry in which storage space (such as rooms, lockers, containers, and/or outdoor space), also known as "storage units" is rented to tenants, usually on a short-term basis</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2281788">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">public aquarium</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility with large tanks for water-dwelling species</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16970">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">church building</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">building used for Christian worship</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q261362">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">employment agency</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization that helps people find a job</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q861951">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">police station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">headquarters for the police of a particular district, from which police officers are dispatched and to which persons under arrest are brought</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36774">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">web page</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">single document composed of HTML that is directly viewable via web browsers and accessible via the World Wide Web</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2814066">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comedy club</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a venue, typically a nightclub, bar, or restaurant where people watch or listen to performances, including stand-up comedians, improvisational comedians, impersonators, magicians, ventriloquists and other comedy acts</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q130003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ski resort</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mountainside developed for skiing, snowboarding, and other winter sports</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2424752">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anything that can be offered to a market</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15636229">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">surgical procedure</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical procedure that involves cutting</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q105543609">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">musical work/composition</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata metaclass; legal concept of uniquely identifiable piece or work of music, either vocal or instrumental; NOT applicable to recordings, broadcasts, or individual publications of music in printed or digital form or on physical media</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1266946">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thesis</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">document submitted in support of candidature for an academic degree</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26869695">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diet</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">specific kind of diet, i.e. a strategy of regulating the intake of food to achieve or maintain a specific health-related goal</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14350">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">radio station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organization for the production and transmission of radio programs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q134556">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">single</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of single releases by an artist usually released at the same time with the same title and tracks but in different formats for consumption (digital, CD, LP)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q570116">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tourist attraction</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place of interest where tourists visit</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q162827">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">atlas</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of maps</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27108230">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">campground</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">outdoor accommodation area that provides multiple individual campsites</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q654772">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hostel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cheap, sociable accommodation</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27038997">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tattoo parlor</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that offers skin tattoo services</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q24354">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theatre</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">building designed for presentation of dramatic performances</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q107123630">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civic structure</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">architectural structure that fullfills a civic purpose</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2029911">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">professional services</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">services created by applying specialized abilities attained through experience and tertiary education</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q41222493">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">taxi service</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">typically provided by automobiles, but various human-powered vehicles,(such as the rickshaw or pedicab) and animal-powered vehicles (such as the Hansom cab) or even boats (such as water taxies or gondolas) are also used or have been used historically</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q30322502">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">contact point</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">entity serving as focal point of information</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4327689">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">printed sheet music</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">notated music printed on unbound sheets of paper; printed representation of a musical work</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q23541360">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hotel room</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">smallest discrete unit of individually lockable accommodation in a a hotel</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34493">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">motorcycle</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">two- or three-wheeled motor vehicle</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11315">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shopping center</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">complex of shops</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16917">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">health care facility, for individual buildings use hospital building, for organizations use medical organization</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20950067">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">elementary school</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">school for students at the ages of 3–12 to receive primary education</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2031291">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">musical release</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of musical recordings released in a specific format for consumption</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7725310">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">series of creative works</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ordered set of creative works</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7578913">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spoken word album</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album of recordings of spoken material with little or no music</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1318959">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toy store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">business that specializes in selling toys typically for youth</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q42889">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vehicle</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mobile machine used for transport, whether it has an engine or not, including wheeled and tracked vehicles, air-, water-, and space-craft</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16735601">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">florist</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">person preparing and selling flowers</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1248784">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">airport</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">location where aircraft take off and land with extended support facilities, mostly for commercial air transport</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34770">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">language</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">particular system of communication, often named for the region or peoples that use it</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2632011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">liquor store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shop that sells prepackaged alcoholic beverages</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11032">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">newspaper</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scheduled publication containing news of events, articles, features, editorials, and advertising</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q76470">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">outlet store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brick and mortar or online store in which manufacturers sell their stock directly to the public</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q928830">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">metro station</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">railway station of a rapid transit system</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q149566">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lower secondary school</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">school which children attend between primary school and secondary school</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q515">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">city</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large permanent human settlement</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q132241">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">festival</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">celebration that focuses upon a theme, and may run for hours to weeks; usually repeated regularily, eg. once a year</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1076486">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sports venue</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility (building, structure, or place) dedicated to sports</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q658274">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">menu</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">list of food and drinks available at a restaurant</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1310967">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">automobile repair shop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">repair shop where automobiles are repaired by auto mechanics and electricians</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q963099">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">remix album</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album type consisting mostly of remixes or re-recorded versions of earlier released material</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1195245">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">beauty salon</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">establishment dealing in cosmetic treatmentsצ, such as hairdressing and nail services</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188507">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apartment</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">self-contained housing unit occupying part of a building</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q70990126">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creative work season</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">set of creative works</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q271669">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">landform</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">natural feature of the surface; geomorphological unit in the Earth sciences</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q930752">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical specialty</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">branch of medicine concerning a specific group of diseases or population</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27166169">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical study</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any of several types of research studies related to health or medicine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q620615">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mobile app</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">software application designed to run on mobile devices</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q169872">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">symptom</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">departure from normal function or feeling which is noticed by a patient, reflecting the presence of an unusual state, or of a disease; subjective, observed by the patient, cannot be measured directly</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10683158">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">substance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any composed matter whose origin is either biological, chemical, or mineral</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q182832">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">concert</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">live performance of music</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q167037">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">corporation</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal entity incorporated through a legislative or registration process</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9620">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nerve</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enclosed, cable-like bundle of axons in the peripheral nervous system</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2671652">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical test</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical procedure performed to detect, diagnose, or monitor diseases, disease processes, susceptibility, or to determine a course of treatment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q814610">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">emergency service</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">organizations which ensure public safety and health by addressing different emergencies</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q571">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">book</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27003353">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">auto body shop</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type of automotive repair business specializing in collision and dent repairs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2207370">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">seat</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">object for sitting on</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27106471">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bowling alley</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility for the sport of bowling</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q64576680">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">accommodation</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place where someone can stay, either temporarily or permanently</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209939">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">live album</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">album type recorded at a single concert, or combine recordings made at multiple concerts</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2976049">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">drug class</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">category of drugs used to classify a drug according to certain criteria</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7075">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">library</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">institution charged with the care of a collection of literary, musical, artistic, or reference materials, such as books, manuscripts, recordings, or films</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27106436">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">recycling center</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place where consumers can bring recyclable materials to be sorted and start the process of recycling</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7216866">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">post</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">entry on a social media platform, forum, or blog</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q30022">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coffeehouse</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">establishment that serves coffee and tea</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7058673">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">video game series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple video games marketed under the same series name</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133215">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">casino</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facility which houses and accommodates certain types of gambling activities</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215380">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">musical group</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">musical ensemble which performs music</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15809678">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">financial product</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">financial service marketed and sold as a packaged commodity</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27038993">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">food establishment</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">food-related business that offers food</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3917681">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">embassy</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">permanent diplomatic mission of higher level, representing its operator in the country the embassy is in</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3305213">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">painting</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">visual artwork, surface artistically covered with paint</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15275719">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">recurring event</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">event recurring at an interval</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q252924">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plumber</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">profession; tradesperson specialized in installing and maintaining systems used for potable water, sewage and drainage in plumbing systems</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q75848">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gated community</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">residental community with controlled entrances and often a closed perimeter of walls/fences</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34038">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">waterfall</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place where water flows over a steep or vertical drop</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14406742">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comic book series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of published comic stories typically sharing the same title</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q200764">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bookstore</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">commercial trader of books</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26987229">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">audio file</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any file containing sound content in some format that can be played back by a device</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q62849941">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">local business</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">particular physical business or branch of an organization</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14623351">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">radio series</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">recurring show on radio</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q176637">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pawnbroker</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">individual or business that offers loans to people, with items of personal property used as collateral</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q128751">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">source code</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of computer instructions written using some human-readable computer language</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q519076">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">real estate agent</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">person who acts as an intermediary between sellers and buyers of real estate/real property for a commission</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2001305">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">television channel</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">channel over which a television station is distributed</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q220142">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pet store</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">establishment that sells pets, pet food, or related equipment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q22698">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">park</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">permanently dedicated recreation area, often open to the public and generally characterized by natural, historic, or landscape features</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q265868">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bone</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rigid organ that constitutes part of the endoskeleton of vertebrates</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1441305">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clinical sign</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">objective indication of a medical fact or characteristic of a disease, injury, or abnormal physiological state that may be detected during the physical examination of a patient</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2979300">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dental clinic</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical facility that diagnose, treat and prevent oral and maxillofacial conditions</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q43501">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zoo</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection of assorted wild animal species kept for purposes like: study, conservation and, or, commercial exhibition</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1983062">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">episode</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">part of a work such as a serial television or radio drama</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q219239">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">recipe</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a set of instructions for preparing a processed food item</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q51369558">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">historic geographical object</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">object of historic nature</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q289612">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">general contractor</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">profession</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27106886">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">public swimming pool</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a swimming pool designated for public use and typically maintained by some government authority</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q622425">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nightclub</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">entertainment venue which usually operates late into the night</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q39614">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cemetery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place of burial</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5227292">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data feed</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mechanism for users to receive updated data from data sources</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1587716">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tourism office</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical location that provides tourist information on the place or attraction where it is located</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q628523">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">message</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">discrete unit of communication intended by the source for consumption by some recipient or group of recipients</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27165812">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">palliative procedure</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18691599">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">military facility</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place developed for and utilized by military forces</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q56061">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">administrative territorial entity</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">territorial entity for administration purposes, with or without its own local government</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q87167">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">manuscript</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">document written by hand</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q79719">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">license</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">set of permissions and restrictions to use something</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q29937289">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">data catalog</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">curated collection of metadata about datasets</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13380226">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tennis venue</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">outdoor stadium or indoor venue mainly used for tennis</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q8502">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mountain</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">large natural elevation of the Earth's surface</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q483110">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stadium</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">place or venue for (mostly) outdoor sports, concerts, or other events</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9655">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">artery</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blood vessel that carries oxygenated blood away from the heart to other organs rather than lungs</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q219067">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">physical exercise</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bodily activity that enhances or maintains physical fitness and overall health and wellness</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26715005">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal status of medicine</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal status of medicine</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q699405">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">residence</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">self-contained unit of accommodation (house, apartment, mobile home, houseboat or other structure) used as a home</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4897819">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">role</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">identity of an item in relation to another specified item</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q813966">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">public toilet</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toilet and washroom for anyone to use</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q38723">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">higher education institution</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">institution that provides higher education (e.g., universities, vocational universities, community colleges, liberal arts colleges, institutes of technology, and others)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1076052">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">preschool</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">educational establishment offering early childhood education to children</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2668072">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">collection</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">set of purposefully gathered physical or digital objects with some common characteristics</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">human</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">any member of Homo sapiens, unique extant species of the genus Homo, from embryo to adult</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4936952">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anatomical structure</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">entity with a single connected inherent 3D shape that's created by coordinated expression of the organism's own DNA</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16521">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">taxon</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of one or more organism(s), which a taxonomist adjudges to be a unit</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q108346082">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">release group</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">group of similar audio releases typically of different formats (digital, CD, etc.)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27008444">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">childcare center</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A business that provides care for children typically for working parents</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q796194">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">medical procedure</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of medicine done to heal; course of action intended to achieve a result in the delivery of healthcare</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2416176">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theatre performance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stage direction or series of stage directions of a play</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>
