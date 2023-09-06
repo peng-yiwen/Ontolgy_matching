@@ -1,4 +1,4 @@
-# Ontology_matching
+# TEXTO Ontology_matching
 
 This repository contains our implementation of the ontology matching framework in the paper: **Ontology Matching using Textual Class Descriptions**
 
